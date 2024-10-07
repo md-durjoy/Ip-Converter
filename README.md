@@ -11,7 +11,7 @@
 
    Run the following command to clone the repository:
    ```bash
-   git clone https://github.com/md-durjoy/Domain-Scraper.git
+   git clone https://github.com/md-durjoy/Ip-Converter.git
    ```
 
 2. **Navigate into the Cloned Directory**:
