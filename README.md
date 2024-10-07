@@ -1,7 +1,8 @@
 
 # Domain-Scraper 
 
-![Domain Extractor Screenshot](path_to_your_screenshot.png)  <!-- Replace with the actual path to your screenshot -->
+<img width="671" alt="image" src="https://github.com/user-attachments/assets/a77152c7-e2dc-440a-9661-47d03564432f">
+  <!-- Replace with the actual path to your screenshot -->
 
 
 
