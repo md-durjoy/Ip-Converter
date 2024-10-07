@@ -68,7 +68,7 @@ with open(domain_file, 'r') as file:
                         # Display loading animation with skull
                         for i in range(5):  # Adjust the range for more loading steps
                             print("-" * (i + 1) + "💀", end='\r')
-                            time.sleep(0.8)  
+                            time.sleep(0.3)  
                         
                         # Resolve domain name to IP address
                         ip = socket.gethostbyname(domain)
